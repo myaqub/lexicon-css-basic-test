@@ -1,0 +1,146 @@
+
+h3{
+
+    background-color: rgb(78, 82, 75);
+    color: azure;
+    padding-left: 20px;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#star{
+   
+    color: brown;   
+        
+}
+
+
+header{
+
+    background-color: black;
+    height: 100px;
+    color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+   
+
+}
+/* this box  is a container of 3 recipes  display in horizontaly */
+.recipe-main-container{
+   
+    display:  flex;
+    background-color: beige;
+    justify-content: center;
+  
+        
+}
+
+.recipe1{
+   background-color: #956A71;
+  
+   padding: 10px;
+   margin: 10px;
+   width: 400px;
+      
+}
+
+.recipe2{
+    background-color: #BFBB7C;
+   
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+       
+ }
+ .recipe3{
+    background-color: #EFE3DC;
+   
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+ 
+          
+ }
+
+
+
+
+
+img {
+   
+     height: 200px;
+     width: 390px;
+     
+    
+ }
+
+
+ .rating-div {
+   
+  color: rgb(151, 20, 42);   
+   
+}
+
+.footer-main-container{
+   
+    display:  flex;
+    background-color: #040404;
+    justify-content: center;
+          
+}
+
+.footer-div1{
+    background-color: #4E524B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    color: #EFE3DC;
+ 
+          
+ }
+
+ .footer-div2{
+    background-color: #4E524B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    color: #EFE3DC;
+ 
+          
+ }
+
+ .footer-div3{
+    background-color: #4E524B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    color: #EFE3DC;
+ 
+          
+ }
+
+ .footer-div4{
+    background-color: #4E524B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    color: #EFE3DC;
+ 
+          
+ }
+ .copyright{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+ 
+          
+ }
+ 
+
